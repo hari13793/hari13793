@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Hari 👋
 
-<!--
-**hari13793/hari13793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst who loves turning messy data into clear decisions.
+I completed a virtual internship with **Deloitte** where I worked on
+real-world data problems using Python and SQL. Now I'm building my
+portfolio and looking for remote analyst roles and freelance projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Work With
+
+**Data & Analytics**
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (queries, joins, aggregations)
+- Excel & dashboards
+
+**SAP**
+- SAP SD & MM (learning + hands-on practice)
+
+---
+
+## 📂 Featured Projects
+
+### 🔍 Deloitte Data Analysis Task
+> Completed as part of Deloitte's Virtual Internship on Forage
+- Analyzed business datasets to identify patterns
+- Built visualizations to communicate findings clearly
+- Tools: Python, Excel
+
+*(More projects being added — check back soon)*
+
+---
+
+## 📌 Currently Working On
+- Building 2–3 strong data projects for my portfolio
+- Deepening SAP SD/MM knowledge
+- Learning Power BI for dashboard work
+
+---
+
+## 📫 Let's Connect
+- 💼 https://www.linkedin.com/in/harish-p-13966328butm_source=share_via&utm_content=profile&utm_medium=member_android
+- 📧 harishpalanisamy1312@gmail.com
+- 🌍 Open to remote work & freelance globally
