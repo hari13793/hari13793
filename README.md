@@ -9,15 +9,11 @@ portfolio and looking for remote analyst roles and freelance projects.
 
 ## 🛠️ What I Work With
 
-**Data & Analytics**
-- Python (Pandas, NumPy, Matplotlib)
-- SQL (queries, joins, aggregations)
-- Excel & dashboards
-
-**SAP**
-- SAP SD & MM (learning + hands-on practice)
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 📂 Featured Projects
 
