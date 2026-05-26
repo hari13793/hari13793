@@ -23,9 +23,9 @@ portfolio and looking for remote analyst roles and freelance projects.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hari13793&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=hari13793&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hari13793&layout=compact&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hari13793&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
 
