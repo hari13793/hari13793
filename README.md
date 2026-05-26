@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=hari13793&color=blue&style=for-the-badge)
+
+
 # Hi, I'm Hari 👋
 
 I'm a data analyst who loves turning messy data into clear decisions.
@@ -14,6 +17,17 @@ portfolio and looking for remote analyst roles and freelance projects.
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=hari13793&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hari13793&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ## 📂 Featured Projects
 
