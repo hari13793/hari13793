@@ -19,6 +19,7 @@ portfolio and looking for remote analyst roles and freelance projects.
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -28,6 +29,9 @@ portfolio and looking for remote analyst roles and freelance projects.
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hari13793&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 </div>
+
+
+
 
 <div align="center">
 
